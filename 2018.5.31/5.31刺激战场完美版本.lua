@@ -28,7 +28,7 @@ if ts == 1 then a()
 end
 if ts == 2 then b() 
 end
-it ts == 3 then c()
+if ts == 3 then c()
 end
 
 function a()
